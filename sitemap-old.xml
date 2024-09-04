@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main page -->
+  <url>
+    <loc>https://tusker.beer/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Oktobafest -->
+  <url>
+    <loc>https://www.tusker.beer/oktobafest/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Lager -->
+  <url>
+    <loc>https://www.tusker.beer/lager.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Lite -->
+  <url>
+    <loc>https://www.tusker.beer/lite.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Malt -->
+  <url>
+    <loc>https://www.tusker.beer/malt.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- cider -->
+  <url>
+    <loc>https://www.tusker.beer/cider.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Merchandise -->
+  <url>
+    <loc>https://www.tusker.beer/oktobafest/merchandise</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

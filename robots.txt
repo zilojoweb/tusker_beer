@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /secret-page.html
+Disallow: /temp/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /secret-page.html
+Disallow: /temp/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /secret-page.html
+Disallow: /temp/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+Sitemap: https://www.tusker.beer/sitemap.xml
